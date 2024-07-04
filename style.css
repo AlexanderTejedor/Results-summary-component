@@ -196,10 +196,8 @@ body{
     background:linear-gradient(180deg, var(--light-slate-blue-background), var(--tight-royal-blue-background-));
 }
 /*========== Media queries ==========*/
-/*========== Tablet ==========*/
-
 /*========== Desktop ==========*/
-@media screen and (min-width: 1440px){
+@media screen and (min-width: 768px){
     .main-container{
         height: 100dvh;
         align-items: center;
