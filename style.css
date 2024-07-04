@@ -147,7 +147,7 @@ body{
 }
 .summary-item__title{
     font-weight: var(--bold-font-weight);
-    margin-left: .5rem;
+    margin-left: .7rem;
 }
 .summary-item__value{
     color: var(--grey-color);
